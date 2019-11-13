@@ -1,0 +1,1 @@
+grant all on jean.* TO 'jean'@'%' with grant option; //permet donner tous les droits AINSI que les droits de déléguer
